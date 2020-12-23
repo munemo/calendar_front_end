@@ -4073,6 +4073,11 @@ detect-port-alt@1.1.6:
     address "^1.0.1"
     debug "^2.6.0"
 
+dhtmlx-scheduler@^5.3.10:
+  version "5.3.10"
+  resolved "https://registry.yarnpkg.com/dhtmlx-scheduler/-/dhtmlx-scheduler-5.3.10.tgz#e965fd7f695cf9884b521b20b045ad24e5d341cc"
+  integrity sha512-HJ2myI56YyA1lJQSIrQD6KD1VFLe7JxyTK8baMqcGQXhlzvHuja84CrZWiRhFiAmS3LGlScBbDDgRfO2zpQCMQ==
+
 diff-sequences@^26.6.2:
   version "26.6.2"
   resolved "https://registry.yarnpkg.com/diff-sequences/-/diff-sequences-26.6.2.tgz#48ba99157de1923412eed41db6b6d4aa9ca7c0b1"
