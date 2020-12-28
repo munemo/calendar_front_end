@@ -1,8 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import './css/MessageArea/MessageArea.css';
+import './css/Scheduler/Toolbar/Toolbar.css';
+import "../src/css/Scheduler/scheduler.css";
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import MessageArea from './components/MessageArea';
 
 ReactDOM.render(
   <React.StrictMode>
